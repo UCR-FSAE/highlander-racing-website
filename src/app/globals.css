@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@theme {
+  --color-hr-blue-900: #111d2a;
+  --color-hr-white-200: #f2f0eb;
+  --color-hr-blue-600: #014982;
+  --color-hr-blue-400: #2a99d4;
+  --color-hr-blue-200: #8ad2f3;
+}
+
+body {
+  background-color: var(--color-hr-blue-900);
+}
