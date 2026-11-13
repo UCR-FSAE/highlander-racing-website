@@ -13,7 +13,7 @@
 
 ## Figma
 
-[Highlander Racing Website Figma](https://www.figma.com/)
+[Highlander Racing Website Figma](https://www.figma.com/design/wPpciJ6EIyfagSMu4vOZku/Highlander-Racing-Website?node-id=0-1&t=e5csZgVOZOXwPQiE-1)
 
 ## Credits
 This website was built from an [open-source Next.js template](https://github.com/acm-ucr/acm-ucr-website).
